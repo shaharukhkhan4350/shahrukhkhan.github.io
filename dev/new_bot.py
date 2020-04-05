@@ -9,7 +9,7 @@ import calcData as datacalc
 from flask import Flask, request
 import os
 
-TOKEN = "893266649:AAFv46pw1DkwuBIYFXfPrryFZNjV0x5lZEo"
+TOKEN = "893266649:AAGDVt9mq3X7v665qeX3d1pRgaHvkuF8lHU"
 bot = telebot.TeleBot(token=TOKEN)
 server = Flask(__name__)
 #bot = telebot.TeleBot()
@@ -150,4 +150,4 @@ def webhook():
 
 
 if __name__ == "__main__":
-    server.run(host="192.1.1.0", port=int(os.environ.get('PORT', 5000)))
+    server.run(host="0.0.0.0", port=int(os.environ.get('PORT', 5000)))
