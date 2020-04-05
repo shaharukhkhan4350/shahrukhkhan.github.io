@@ -256,7 +256,7 @@ wasabi==0.2.2
 watchdog==0.8.3
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.15.0
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wordcloud==1.6.0
 wrapt==1.11.2
