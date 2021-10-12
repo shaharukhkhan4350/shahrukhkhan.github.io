@@ -135,7 +135,7 @@ oauth==1.0.1
 oauthlib==3.1.0
 odfpy==1.4.0
 olefile==0.45.1
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 palettable==3.3.0
 pandas==1.0.1
 pandas-datareader==0.8.1
