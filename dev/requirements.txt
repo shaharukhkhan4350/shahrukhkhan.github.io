@@ -123,7 +123,7 @@ multidict==4.7.5
 multipledispatch==0.6.0
 multitasking==0.0.9
 murmurhash==1.0.2
-nbconvert==5.4.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==1.11
 newsapi-python==0.2.6
